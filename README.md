@@ -13,3 +13,4 @@ This assignment creates different visualizations from the cleaned earthquake dat
 - Matplotlib
 - Seaborn
 - Google Colab
+Lab Assignment 3 – Data Exploration and Data Quality Assessment
