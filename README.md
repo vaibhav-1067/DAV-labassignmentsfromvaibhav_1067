@@ -15,16 +15,16 @@ This assignment creates different visualizations from the cleaned earthquake dat
 - Google Colab
 
   
-# ** Assignment 3 – Data Exploration and Data Quality Assessment**
+
 # Lab Assignment 3 – Data Exploration and Data Quality Assessment
 
-## 📌 Overview
+##  Overview
 
 This lab assignment focuses on exploring and assessing the quality of an earthquake dataset using Microsoft Excel.
 
 The dataset contains information about **1,000 significant earthquakes** recorded between 1995 and 2023, with **19 attributes** including magnitude, date and time, depth, alert level, location, magnitude type, latitude, longitude, continent, and country.
 
-## 🎯 Objectives
+##  Objectives
 
 - Explore the earthquake dataset using Excel formulas.
 - Calculate basic statistical measures such as minimum, maximum, and average.
@@ -38,14 +38,14 @@ The dataset contains information about **1,000 significant earthquakes** recorde
 - Detect duplicate earthquake events using title and date-time.
 - Summarize data-quality issues and suggest fixes for future data cleaning.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Excel Formulas
 - PivotTables
 - Excel Charts
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** `earthquake_1995-2023.csv`
 
@@ -58,7 +58,7 @@ The original dataset contains:
 
 `title`, `magnitude`, `date_time`, `cdi`, `mmi`, `alert`, `tsunami`, `sig`, `net`, `nst`, `dmin`, `gap`, `magType`, `depth`, `latitude`, `longitude`, `location`, `continent`, `country`
 
-## 📋 Assignment Tasks
+## Assignment Tasks
 
 ### Task 1 – Excel-Based Exploration
 
@@ -96,10 +96,10 @@ The dataset is audited for:
 
 A final data-quality summary is also prepared with recommended fixes for the next data-cleaning stage.
 
-## 📁 Workbook Contents
+##  Workbook Contents
 
 The Excel workbook contains the original dataset, exploration results, data-quality analysis, PivotTables, charts, and final summary.
 
-## 📌 Outcome
+##  Outcome
 
 This assignment provides practical experience in **data exploration, data quality assessment, Excel-based analysis, and data visualization**, preparing the dataset for further cleaning and analysis in subsequent lab assignments.
