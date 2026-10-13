@@ -23,3 +23,4 @@ The dataset contains information about **1,000 significant earthquakes** recorde
 
 
 - `AVERAGE`
+# Assignment 6 – plotly graph and box plot which was given on 12 oct 2026
